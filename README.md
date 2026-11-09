@@ -166,8 +166,6 @@ CapeVerse Early Access
 
 "Open CapeVerse" https://capeverse.lovable.app
 
-«Replace the placeholder with the verified application URL before publishing this repository.»
-
 CapeVerse is currently in closed alpha testing. Access and functionality may change during development.
 
 ---
@@ -222,9 +220,6 @@ It exists to:
 This repository does not contain the application's private source code.
 
 The actual application source code is maintained separately in a private repository connected to the development environment.
-
-No credentials, API keys, private database configuration, internal security policies or confidential operational information should be published here.
-
 ---
 
 Contact
